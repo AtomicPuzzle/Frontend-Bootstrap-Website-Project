@@ -25,6 +25,7 @@ I made use of Bootstrap 3.3.7, particularly to create the `header` and `footer` 
 
 // DOCUMENTATION //
 - Documentation is located under the "Documentation" folder which contains the following:
+	- Project Wireframe.pdf
 	- Site Map & Dependency Tree.pdf
 	- Website Evaluation Form.pdf
 
