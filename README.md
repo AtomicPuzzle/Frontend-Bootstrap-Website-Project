@@ -7,7 +7,7 @@ The project tasked me with creating a front-end website design for a small, loca
 
 ** PLEASE NOTE: This is a student project and is not the restaurant's official website, nor does it reflect the business's menu or its current state (it so happens that it is doing quite well). An additional sidenote: the food is amazing and it was one of the best jobs I have ever had.
 
-The project had certain requirements such as proper use of elements in the <head> and <body>; CSS colour, position, and function tools (eg. borders and scaling); Javascript elements, mainly for date/time updates and form validation; and effective use of C.R.A.P. principes (Contrast Repetition Alignment Proximity).
+The project had certain requirements such as proper use of elements in the `head` and `body`; CSS colour, position, and function tools (eg. borders and scaling); Javascript elements, mainly for date/time updates and form validation; and effective use of C.R.A.P. principes (Contrast Repetition Alignment Proximity).
 
 There were some required features that I did not believe went well with my overall vision for the project, though I was more than able to make them align with my design. For example, I needed to include a `video` object or rather a link to a video. I felt this was unnecessary since the images and design I had chosen already spoke volumes for the business without utilizing auditory or motion-picture content. But as the university (or rather my course representative) was my 'client', I resolved to work through the constraint and create something that met the requirement with a quality fashion.
   
