@@ -29,12 +29,12 @@ I made use of Bootstrap 3.3.7, particularly to create the <header> and <footer> 
 	- Website Evaluation Form.pdf
 
 // REFERENCES //
-Bootstrap (v3.3.7). Retrieved from https://getbootstrap.com/docs/3.3/ 
-BootstrapCDN Quick Start (v3.3.7). Retrieved from https://www.bootstrapcdn.com/ 
-Bring the power of google maps to your website with simple HTML. Retrieved from https://developers.google.com/maps/documentation/embed/ 
-CA restaurant. . ().[Video/DVD] CA Restaurant. Retrieved from https://www.youtube.com/
-Google Fonts. Retrieved from https://fonts.google.com/?selection.family=Lato:400,700 
-Pasta tomatoes and flour with egg shells on table&nbsp;&nbsp; Retrieved from https://www.pexels.com/photo/pasta-tomatoes-and-flour-with-egg-shells-on-table-3 5661/
-Scrolling HTML bookmarks. Retrieved from http://www.dynamicdrive.com/dynamicindex5/bookmarkscroll.htm
-Wu, G. (a). Chef's playground eatery. Retrieved from http://chefsplayground.ca/
-Wu, G. (b). chefsplaygroundsteveston. Retrieved from https://www.instagram.com/chefsplaygroundsteveston/
+- Bootstrap (v3.3.7). Retrieved from https://getbootstrap.com/docs/3.3/ 
+- BootstrapCDN Quick Start (v3.3.7). Retrieved from https://www.bootstrapcdn.com/ 
+- Bring the power of google maps to your website with simple HTML. Retrieved from https://developers.google.com/maps/documentation/embed/ 
+- CA restaurant. . ().[Video/DVD] CA Restaurant. Retrieved from https://www.youtube.com/
+- Google Fonts. Retrieved from https://fonts.google.com/?selection.family=Lato:400,700 
+- Pasta tomatoes and flour with egg shells on table&nbsp;&nbsp; Retrieved from https://www.pexels.com/photo/pasta-tomatoes-and-flour-with-egg-shells-on-table-3 5661/
+- Scrolling HTML bookmarks. Retrieved from http://www.dynamicdrive.com/dynamicindex5/bookmarkscroll.htm
+- Wu, G. (a). Chef's playground eatery. Retrieved from http://chefsplayground.ca/
+- Wu, G. (b). chefsplaygroundsteveston. Retrieved from https://www.instagram.com/chefsplaygroundsteveston/
